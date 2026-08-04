@@ -7,10 +7,12 @@
 | [0001-two-sum](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
 | [1406-stone-game-iii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1406-stone-game-iii) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
