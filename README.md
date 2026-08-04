@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0704-binary-search) |
 | [1406-stone-game-iii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1406-stone-game-iii) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
