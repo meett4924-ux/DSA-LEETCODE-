@@ -21,6 +21,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
 | [1406-stone-game-iii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
