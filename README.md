@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0704-binary-search) |
 ## Depth-First Search
 |  |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
