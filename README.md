@@ -28,12 +28,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0005-longest-palindromic-substring) |
 | [1406-stone-game-iii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,4 +87,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
