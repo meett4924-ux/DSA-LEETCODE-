@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0485-max-consecutive-ones) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0704-binary-search) |
 ## Depth-First Search
 |  |
