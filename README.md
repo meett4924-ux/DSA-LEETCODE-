@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0136-single-number) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0283-move-zeroes) |
