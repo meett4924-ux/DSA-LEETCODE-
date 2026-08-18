@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0704-binary-search) |
 ## Depth-First Search
 |  |
