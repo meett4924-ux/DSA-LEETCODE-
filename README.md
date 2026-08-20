@@ -19,6 +19,7 @@
 | [0485-max-consecutive-ones](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0875-koko-eating-bananas) |
 | [1406-stone-game-iii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -74,6 +75,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0875-koko-eating-bananas) |
 ## Depth-First Search
 |  |
 | ------- |
