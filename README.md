@@ -45,6 +45,7 @@
 | [0016-3sum-closest](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -105,6 +106,7 @@
 | [0006-zigzag-conversion](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
