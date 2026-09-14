@@ -85,6 +85,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0094-binary-tree-inorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -133,8 +134,17 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
