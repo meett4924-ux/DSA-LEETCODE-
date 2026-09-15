@@ -147,4 +147,12 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0094-binary-tree-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
