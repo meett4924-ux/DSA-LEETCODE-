@@ -23,6 +23,7 @@
 | [0875-koko-eating-bananas](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1406-stone-game-iii) |
+| [1539-kth-missing-positive-number](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1539-kth-missing-positive-number) |
 | [3731-find-missing-elements](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@
 | [0704-binary-search](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1539-kth-missing-positive-number) |
 ## Depth-First Search
 |  |
 | ------- |
