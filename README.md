@@ -36,6 +36,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
 | [1406-stone-game-iii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0070-climbing-stairs) |
 | [1406-stone-game-iii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0021-merge-two-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
