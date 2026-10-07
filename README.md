@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
@@ -48,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0283-move-zeroes) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0088-merge-sorted-array) |
 | [3731-find-missing-elements](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
