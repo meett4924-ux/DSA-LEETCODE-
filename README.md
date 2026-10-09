@@ -160,6 +160,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/meett4924-ux/DSA-LEETCODE-/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
